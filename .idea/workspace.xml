@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="043ce0bb-7968-4baf-9408-6195cfd44a09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoBlog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/bloghome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog/blogpost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/home.html" afterDir="false" />
+    <list default="true" id="043ce0bb-7968-4baf-9408-6195cfd44a09" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/templates/home/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoBlog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoBlog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog/bloghome.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/bloghome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog/blogpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/blogpost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NgnDinhThanh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NgnDinhThanh/Blog_App.git&quot;,
+    &quot;accountId&quot;: &quot;c40e4c4d-3f17-43f9-a3fd-4838c4c3d55d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,7 +70,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -115,11 +127,25 @@
       <option name="presentableId" value="Default" />
       <updated>1754407545693</updated>
       <workItem from="1754407546860" duration="7863000" />
-      <workItem from="1754473626696" duration="6475000" />
+      <workItem from="1754473626696" duration="6645000" />
+      <workItem from="1754552993665" duration="7346000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1754499247883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754499247883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
